@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  **Full Stack Developer | DevOps Engineer | Cloud Enthusiast**
+  **Full Stack Developer | DevOps & Cloud Enthusiast**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-faraz-34138b319/)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ahsanfaraza674@gmail.com)
@@ -97,14 +97,11 @@ location: Lahore, Punjab, Pakistan
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahsan-Faraz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Faraz&theme=dark&hide_border=false" alt="GitHub Streak" height="170"/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahsan-Faraz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
   
-</div>
-
-<div align="center">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Faraz&theme=dark&hide_border=false)
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-Faraz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-Faraz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 </div>
 
@@ -114,7 +111,7 @@ location: Lahore, Punjab, Pakistan
 
 <div align="center">
   
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ahsan-Faraz&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1)
+  ![](https://github-profile-trophy.vercel.app/?username=Ahsan-Faraz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   
 </div>
 
@@ -124,7 +121,7 @@ location: Lahore, Punjab, Pakistan
 
 <div align="center">
   
-  ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Ahsan-Faraz&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=false)
+  ![](https://github-contributor-stats.vercel.app/api?username=Ahsan-Faraz&limit=5&theme=dark&combine_all_yearly_contributions=true)
   
 </div>
 
