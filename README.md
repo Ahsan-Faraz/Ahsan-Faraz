@@ -97,31 +97,11 @@ location: Lahore, Punjab, Pakistan
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahsan-Faraz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Faraz&theme=dark&hide_border=false)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-Faraz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
-</div>
 
----
-
-## Achievements
-
-<div align="center">
-  
-  ![](https://github-profile-trophy.vercel.app/?username=Ahsan-Faraz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-  
-</div>
-
----
-
-## Top Contributions
-
-<div align="center">
-  
-  ![](https://github-contributor-stats.vercel.app/api?username=Ahsan-Faraz&limit=5&theme=dark&combine_all_yearly_contributions=true)
   
 </div>
 
