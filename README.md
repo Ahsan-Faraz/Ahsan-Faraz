@@ -97,14 +97,14 @@ location: Lahore, Punjab, Pakistan
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahsan-Faraz&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ahsan-Faraz&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahsan-Faraz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Faraz&theme=dark&hide_border=false" alt="GitHub Streak" height="170"/>
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-Faraz&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-Faraz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
   
 </div>
 
@@ -114,7 +114,7 @@ location: Lahore, Punjab, Pakistan
 
 <div align="center">
   
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ahsan-Faraz&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ahsan-Faraz&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1)
   
 </div>
 
@@ -124,7 +124,7 @@ location: Lahore, Punjab, Pakistan
 
 <div align="center">
   
-  ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Ahsan-Faraz&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+  ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Ahsan-Faraz&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=false)
   
 </div>
 
@@ -142,7 +142,7 @@ location: Lahore, Punjab, Pakistan
 
 <div align="center">
   
-  ![Profile Views](https://visitcount.itsvg.in/api?id=Ahsan-Faraz&icon=2&color=6)
+  [![Profile Views](https://visitcount.itsvg.in/api?id=Ahsan-Faraz&icon=0&color=0)](https://visitcount.itsvg.in)
   
   **Open to collaboration and exciting opportunities**
   
