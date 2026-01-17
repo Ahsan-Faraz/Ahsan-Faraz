@@ -18,7 +18,7 @@
 current_focus: Full Stack Applications & DevOps Engineering
 interests: Cloud Computing, Modern Deployment Practices, Scalable Architecture
 collaboration: Open to innovative projects and software development opportunities
-location: Lahore, Punjab, Pakistan
+location: Islamabad, Pakistan
 ```
 
 ---
