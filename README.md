@@ -93,29 +93,8 @@ location: Lahore, Punjab, Pakistan
 
 ---
 
-## GitHub Analytics
 
-<div align="center">
-  
 
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Faraz&theme=dark&hide_border=false)
-  
-
-  
-</div>
-
----
-
-## Daily Inspiration
-
-<div align="center">
-  
-  ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-  
-</div>
-
----
 
 <div align="center">
   
